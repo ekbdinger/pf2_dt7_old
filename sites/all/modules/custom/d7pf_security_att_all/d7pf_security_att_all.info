@@ -1,6 +1,7 @@
 name = d7pf_security_att_all
 core = 7.x
-package = Features
+package = D7 Upgrade
+php = 5.2.4
 dependencies[] = ctools
 dependencies[] = views
 features[ctools][] = views:views_default:3.0
